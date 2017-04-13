@@ -67,7 +67,7 @@
         <pd:inputBindings>
             <ResponseActivityInput>
                 <asciiContent>
-                    <xsl:value-of select="'hello world1'"/>
+                    <xsl:value-of select="'hello world2000'"/>
                 </asciiContent>
             </ResponseActivityInput>
         </pd:inputBindings>
